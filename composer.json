@@ -1,0 +1,21 @@
+{
+    "name": "defro/codeigniter-sendinblue",
+    "description": "A Codeigniter PHP framework package for dealing with SendInBlue email provider API.",
+    "time": "2017-09-24",
+    "type": "library",
+    "keywords": ["codeigniter", "sendinblue", "email", "emailing", "api"],
+    "license": "GPL-3.0",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Joël Gaujard",
+            "email": "j.gaujard@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/defro/codeigniter-sendinblue/",
+    "require": {
+        "php": ">=5.6",
+        "sendinblue/api-v3-sdk": "^2.0"
+    }
+}
